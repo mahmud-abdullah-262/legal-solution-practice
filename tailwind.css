@@ -9,18 +9,26 @@
   .font-poppins{
      font-family: "Poppins", sans-serif;
   }
+  .bg-golden{
+    background-color: #B68C5A;
+  }
+  .text-golden{
+    color: #B68C5A;
+  }
+  .text-grey{
+    color: #707070;}
+
+  .text-grey-2{
+    color: #F3F3F3;
+  }
+
+  .text-black-1{
+    color: #414040;
+  }
+  .bg-black-2{
+    background-color: #111111;
+  }
+
+
 }
 
-.bg-golden{
-  background-color: #B68C5A;
-}
-.text-grey{
-  color: #707070;}
-
-.text-grey-2{
-  color: #F3F3F3;
-}
-
-.text-black-1{
-  color: #414040;
-}
